@@ -18,6 +18,6 @@ public class BasicJunit {
     }
     @AfterEach
     public void cleanup(){
-        System.out.println("after");
+        System.out.println("after    ");
     }
 }
